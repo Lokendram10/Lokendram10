@@ -21,6 +21,7 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,git,github,bash" height="50"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7mQwF03dVtMoMvQDqIxHNYRDrhk_Pn3KHYIUNQmE6qs_1rPNICVBNLUgf-ZFbB3cQ7Hw&usqp=CAU" height="50" style="border-radius: 20%;"    alt="SonarQube"/>
   <img src="https://trivy.dev/latest/assets/images/trivy_logo_horizontal_white.svg" height="50" alt="Trivy"/>
+   <img src="https://yt3.googleusercontent.com/HOLNUN2fNoGTSPVmK0b0PR088RT2AWjhCCtePsRYflcz9CFIrARL41RrkAgsbt3zVmMRJxZhFw=s900-c-k-c0x00ffffff-no-rj"  height="50" />
 </p>
 
 ---
