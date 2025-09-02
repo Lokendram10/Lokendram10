@@ -45,6 +45,7 @@
 ## 🔗 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/lokendra-dhote-b47152257/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.youtube.com/@lokendradhote"><img height="60" src="https://static.vecteezy.com/system/resources/previews/018/930/572/non_2x/youtube-logo-youtube-icon-transparent-free-png.png"/></a>
   <a href="https://github.com/lokendra-dhote"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
 </p>
 
