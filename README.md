@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 Who Am I?
-- 🎓 Student, **B.Tech CSE (2027)** – Indore  
+- 🎓 Student, **B.Tech CSE (2024-2027)** – Indore  
 - ☁️ AWS Certified Cloud Practitioner  
 - 🐧 Linux , Git Enthusiast, Automation Seeker  
 - 🛠 Focused on **CI/CD Pipelines, Security, and Cloud Infra**  
@@ -28,10 +28,10 @@
 ---
 
 ## 🌟 Highlighted Projects
-- 📌 **CI/CD Voting App** – Jenkinsfile + Docker Compose + GitHub Webhook  
-- 📌 **AWS Infra with Terraform** – Automated cloud infra provisioning  
-- 📌 **Security in DevOps** – Integrated Trivy & SonarQube for scanning  
-- 📌 **Monitoring Alerts** – Bash + AWS + Telegram bot system  
+- 📌 **EC2 Watchers** – Real-time monitoring of EC2 instances using Bash scripts + Telegram bot; alerts for CPU & RAM usage  
+- 📌 **BookMate Website CI/CD** – Jenkins pipeline with Docker and GitHub Webhooks for automated deployment  
+- 📌 **AWS Infra Automation** – Provisioned EC2, S3, IAM, and load balancers using Terraform for cloud projects  
+- 📌 **DevSecOps Integrations** – Implemented SonarQube & Trivy in CI/CD pipelines for security and code quality scanning  
 
 ---
 
