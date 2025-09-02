@@ -19,6 +19,7 @@
 ## 🛠 Tech I Play With
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,git,github,bash" height="50"/>
+  
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7mQwF03dVtMoMvQDqIxHNYRDrhk_Pn3KHYIUNQmE6qs_1rPNICVBNLUgf-ZFbB3cQ7Hw&usqp=CAU" height="50" style="border-radius: 20%;"    alt="SonarQube"/>
   <img src="https://trivy.dev/latest/assets/images/trivy_logo_horizontal_white.svg" height="50" alt="Trivy"/>
    <img src="https://yt3.googleusercontent.com/HOLNUN2fNoGTSPVmK0b0PR088RT2AWjhCCtePsRYflcz9CFIrARL41RrkAgsbt3zVmMRJxZhFw=s900-c-k-c0x00ffffff-no-rj"  height="50" />
@@ -46,7 +47,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lokendra-dhote-b47152257/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://www.youtube.com/@lokendradhote"><img height="60" src="https://static.vecteezy.com/system/resources/previews/018/930/572/non_2x/youtube-logo-youtube-icon-transparent-free-png.png"/></a>
-  <a href="https://github.com/lokendra-dhote"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
+  <a href="https://github.com/lokendra-dhote"><img height="50" src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
 ---
