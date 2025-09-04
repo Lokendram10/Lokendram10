@@ -18,30 +18,33 @@
 
 ## 🛠 Tech I Play With
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,git,github,bash" height="50"/>
-  
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,git,github,bash,mysql,prometheus,grafana," height="50"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7mQwF03dVtMoMvQDqIxHNYRDrhk_Pn3KHYIUNQmE6qs_1rPNICVBNLUgf-ZFbB3cQ7Hw&usqp=CAU" height="50" style="border-radius: 20%;"    alt="SonarQube"/>
   <img src="https://trivy.dev/latest/assets/images/trivy_logo_horizontal_white.svg" height="50" alt="Trivy"/>
    <img src="https://yt3.googleusercontent.com/HOLNUN2fNoGTSPVmK0b0PR088RT2AWjhCCtePsRYflcz9CFIrARL41RrkAgsbt3zVmMRJxZhFw=s900-c-k-c0x00ffffff-no-rj"  height="50" />
 
-   ## 💡 Skills
 
-- **Cloud & DevOps:** AWS, Docker, Jenkins, Terraform
+## 💡 Skills
+
+- **Cloud & DevOps:** AWS, Docker, Docker Compose, Jenkins, Terraform  
 - **Security & Quality:** SonarQube, Trivy, OWASP practices  
-- **OS & Scripting:** Linux, Bash, Shell Scripting  
+- **Monitoring & Automation:** Prometheus, Grafana, Telegram Bot alerts  
+- **OS & Scripting:** Linux, Bash, Shell Scripting, Windows Terminal / SSH  
+- **Databases:** MySQL  
 - **Version Control & Collaboration:** Git, GitHub  
-- **Other Interests:** CI/CD, Infrastructure as Code (IaC), Monitoring & Automation  
+- **Other Interests:** CI/CD, Infrastructure as Code (IaC)
+
 
 
 </p>
 
 ---
-
 ## 🌟 Highlighted Projects
 - 📌 **EC2 Watchers** – Real-time monitoring of EC2 instances using Bash scripts + Telegram bot; alerts for CPU & RAM usage  
+- 📌 **EC2 Resource Monitoring Project** – Implemented Prometheus + Grafana dashboards for visualizing EC2 metrics in real-time  
 - 📌 **BookMate Website CI/CD** – Jenkins pipeline with Docker and GitHub Webhooks for automated deployment  
 - 📌 **AWS Infra Automation** – Provisioned EC2, S3, IAM, and load balancers using Terraform for cloud projects  
-- 📌 **DevSecOps Integrations** – Implemented SonarQube & Trivy in CI/CD pipelines for security and code quality scanning  
+- 📌 **DevSecOps Integrations** – Implemented SonarQube & Trivy in CI/CD pipelines for security and code quality scanning
 
 ---
 
