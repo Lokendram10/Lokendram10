@@ -40,6 +40,8 @@
 
 ---
 ## 🌟 Highlighted Projects
+- 📌 **FoodFrenzy CI/CD Pipeline** – Forked a Java Spring Boot repository and built a complete CI/CD workflow on Jenkins with Maven,
+        SonarQube, OWASP Dependency Check, Trivy, Docker, Docker Compose and monitoring via Prometheus + Grafana  
 - 📌 **EC2 Watchers** – Real-time monitoring of EC2 instances using Bash scripts + Telegram bot; alerts for CPU & RAM usage  
 - 📌 **EC2 Resource Monitoring Project** – Implemented Prometheus + Grafana dashboards for visualizing EC2 metrics in real-time  
 - 📌 **BookMate Website CI/CD** – Jenkins pipeline with Docker and GitHub Webhooks for automated deployment  
