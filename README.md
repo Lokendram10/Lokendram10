@@ -24,7 +24,7 @@
    <img src="https://yt3.googleusercontent.com/HOLNUN2fNoGTSPVmK0b0PR088RT2AWjhCCtePsRYflcz9CFIrARL41RrkAgsbt3zVmMRJxZhFw=s900-c-k-c0x00ffffff-no-rj"  height="50" />
 
 
-## 💡 Skills
+
 
 ## 💡 Skills
 
