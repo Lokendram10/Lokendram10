@@ -26,13 +26,16 @@
 
 ## 💡 Skills
 
-- **Cloud & DevOps:** AWS, Docker, Docker Compose, Jenkins, Terraform  
-- **Security & Quality:** SonarQube, Trivy, OWASP practices  
-- **Monitoring & Automation:** Prometheus, Grafana, Telegram Bot alerts  
-- **OS & Scripting:** Linux, Bash, Shell Scripting, Windows Terminal / SSH  
+## 💡 Skills
+
+- **Cloud & DevOps Tools:** AWS, Jenkins, Docker, Docker Compose, Terraform  
+- **CI/CD & Automation:** Pipeline creation, Infrastructure as Code (IaC), Bash/Shell scripting, GitHub Webhooks  
+- **Security & Code Quality:** SonarQube, Trivy, OWASP Dependency Check & best practices  
+- **Monitoring & Alerting:** Prometheus, Grafana, Node Exporter, Telegram Bot alerts  
 - **Databases:** MySQL  
-- **Version Control & Collaboration:** Git, GitHub  
-- **Other Interests:** CI/CD, Infrastructure as Code (IaC)
+- **Version Control:** Git, GitHub  
+- **Operating Systems:** Linux, Windows (SSH, Windows Terminal)  
+
 
 
 
